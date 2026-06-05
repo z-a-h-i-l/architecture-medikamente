@@ -1,0 +1,169 @@
+<mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
+  <diagram name="Page-1" id="b7a7eaba-c6c5-6fbe-34ae-1d3a4219ac39">
+    <mxGraphModel dx="1029" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" parent="0" style=";html=1;" />
+        <mxCell id="279d4c6e8b4f5ae2-2" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" value="" vertex="1">
+          <mxGeometry height="240" width="20" x="594" y="604" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-3" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" value="" vertex="1">
+          <mxGeometry height="240" width="20" x="799" y="604" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-4" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=35;" value="" vertex="1">
+          <mxGeometry height="240" width="20" x="1029" y="604" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-5" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=90;" value="" vertex="1">
+          <mxGeometry height="681" width="20" x="819" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-6" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" value="" vertex="1">
+          <mxGeometry height="240" width="20" x="613" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-7" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" value="" vertex="1">
+          <mxGeometry height="240" width="20" x="818" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-8" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=20;rotation=155;" value="" vertex="1">
+          <mxGeometry height="240" width="20" x="1048" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=17;" value="Инфраструктура" vertex="1">
+          <mxGeometry height="40" width="150" x="499" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" value="ПО" vertex="1">
+          <mxGeometry height="40" width="150" x="709" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" value="Интеграция" vertex="1">
+          <mxGeometry height="40" width="150" x="939" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" value="Персонал" vertex="1">
+          <mxGeometry height="40" width="150" x="462" y="816" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=20;" value="Процессы" vertex="1">
+          <mxGeometry height="40" width="150" x="672" y="816.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=16;" value="Безопасность и данные" vertex="1">
+          <mxGeometry height="40" width="150" x="902" y="816" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=2;fontSize=20;" value="" vertex="1">
+          <mxGeometry height="120" width="120" x="1171" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-16" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=6;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Единственный физический сервер без резервирования&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="20" x="520" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="279d4c6e8b4f5ae2-22" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=5;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="540" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-1" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=7;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Локальная сеть без сегментации&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="20" x="564" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-4" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=5;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Нет Disaster Recovery / резервного ЦОД&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="20" x="584" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=7;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Отсутствие облачных ресурсов для масштабирования&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="515" y="448" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-19" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=6;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="725" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-20" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=5;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="745" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-21" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=7;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Отсутствие версионирования и CI/CD&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="20" x="769" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-22" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=4;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Жёсткая связка ККМ и 1С через OLE&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="20" x="789" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Разрозненные Excel-файлы как основное хранилище&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="720" y="448" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=7;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1С в файловом режиме, нет API&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="689" y="404" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-29" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=6;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="956" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-30" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=5;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="976" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-31" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=6;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Передача данных без шифрования и контроля&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="20" x="1000" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-32" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=4;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="1020" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Отсутствие стандартов взаимодействия&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="951" y="448" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Лаборатория: обмен файлами, нет API&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="931" y="404" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=7;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Нет API Gateway или ESB&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="992" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-41" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=6;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="577" y="604" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-42" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=5;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="545" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-43" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=6;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Нехватка выделенной команды миграции&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="20" x="510" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-44" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=4;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="483" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=7;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: nowrap;&quot;&gt;Сопротивление изменениям&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="668" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Недостаток опыта в микросервисах и облаке&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="552" y="623" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Зависимость от ключевых сотрудников&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="460" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-50" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=6;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="783" y="604" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-51" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=5;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="751" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-52" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=6;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Не определён владелец данных&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="20" x="716" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-53" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=4;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="689" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Отсутствие аудита и мониторинга&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="726" y="668" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=7;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Ручные операции, нет регламентов&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="758" y="623" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=7;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Двойной учёт в Excel и 1С&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="672" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-60" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=6;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="1013" y="604" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-61" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=5;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="981" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-62" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=6;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Грязные данные: дубли, ошибки, пропуски&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="20" x="946" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-63" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.5;dx=15;direction=north;notch=0;rounded=0;strokeWidth=1;fontSize=4;rotation=90;horizontal=0;labelPosition=left;verticalLabelPosition=middle;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="919" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=7;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Нет согласий пациентов, нарушение 152-ФЗ&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="956" y="668" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=6;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;ПДн без классификации и шифрования&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="988" y="623" as="geometry" />
+        </mxCell>
+        <mxCell id="B5agg0U9kxMscfANOogd-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=7;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; white-space: break-spaces;&quot;&gt;Отсутствие тегирования и Data Lineage&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="902" y="760" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
